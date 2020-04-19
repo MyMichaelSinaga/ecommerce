@@ -1,0 +1,24 @@
+{
+    "modules": [
+        {
+            "moduleOrder": 1,
+            "moduleName": "PromoCard"
+        },
+        {
+            "moduleOrder": 2,
+            "moduleName": "CategoryCard"
+        },
+        {
+            "moduleOrder": 3,
+            "moduleName": "FlashSaleCard"
+        },
+        {
+            "moduleOrder": 4,
+            "moduleName": "HistoryCard"
+        },
+        {
+            "moduleOrder": 5,
+            "moduleName": "NewsCard"
+        }
+    ]
+}
